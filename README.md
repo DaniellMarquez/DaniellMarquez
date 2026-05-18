@@ -47,11 +47,7 @@ Uma infraestrutura backend robusta e isolada para gerenciamento de salas e usuá
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-[![] (https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 📫 Como me encontrar:
 * **LinkedIn:** [linkedin.com/in/seu-usuario]([https://linkedin.com/in/seu-usuario](https://github.com/DaniellMarquez))
