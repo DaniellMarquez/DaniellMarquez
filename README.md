@@ -50,5 +50,5 @@ Uma infraestrutura backend robusta e isolada para gerenciamento de salas e usuá
 
 
 ### 📫 Como me encontrar:
-* **LinkedIn:** (([https://linkedin.com/in/seu-usuario](https://github.com/DaniellMarquez))
+* **LinkedIn:** https://github.com/DaniellMarquez
 * **E-mail:** danieljunior9989@gmail.com
